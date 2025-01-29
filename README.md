@@ -1,1 +1,2 @@
-ToDo App for Lab 1 created by Olivia Howard
+# ToDo App for Lab 1 
+### Created by Olivia Howard
